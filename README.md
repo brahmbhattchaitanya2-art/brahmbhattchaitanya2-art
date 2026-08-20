@@ -6,13 +6,11 @@
 
 📍 Ahmedabad, Gujarat, India
 
-*Turning real-world problems into practical software solutions. 🚀*
+Turning real-world problems into practical software solutions. 🚀
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahmbhatt-chaitanya)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmbhattchaitanya2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmbhatt-chaitanya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmbhattchaitanya2@gmail.com)
 
 </div>
 
@@ -20,23 +18,23 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on *full-stack projects using Django and the MERN Stack*.
+🔭 I’m currently working on *full-stack projects using Django and the MERN Stack.*
 
-👯 I’m looking to collaborate on *Python, Django, MERN Stack and Machine Learning projects*.
+👯 I’m looking to collaborate on *Python, Django, MERN Stack and Machine Learning projects.*
 
-🤝 I’m currently strengthening my skills in *advanced React, backend development and deployment*.
+🤝 I’m currently strengthening my skills in *advanced React, backend development and deployment.*
 
-🌱 I’m currently learning more about *React.js, Node.js, Express.js, Django, REST APIs and Machine Learning*.
+🌱 I’m currently learning more about *React.js, Node.js, Express.js, Django, REST APIs and Machine Learning.*
 
-💬 Ask me about *Python, Django, JavaScript, MERN Stack, MongoDB, MySQL, REST APIs and Web Scraping*.
+💬 Ask me about *Python, Django, JavaScript, MERN Stack, MongoDB, MySQL, REST APIs and Web Scraping.*
 
-⚡ Fun fact: *I enjoy turning real-world problems into practical software solutions.*
+⚡ Fun fact: I enjoy turning *real-world problems into practical software solutions.*
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 🧑‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,7 +51,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -98,20 +96,21 @@
 
 A farming-support platform designed to solve practical agricultural problems using web development, machine learning and data-driven features.
 
-*Highlights*
+### ✨ Highlights
 
 - 🌱 Crop Management
-- 🔬 Disease Prediction
-- 🍃 Deep Learning Leaf Scanner
+- 🔬 Disease Prediction using Machine Learning
+- 🍃 Deep Learning Leaf Scanner using MobileNetV2
+- 📷 Webcam and image-upload leaf scanning
 - 🌦️ Weather Forecast
 - 💰 Market Price Information
 - 🧪 Fertilizer Guidance
 - 📰 Farming News
 - 📊 Analytics Dashboard
+- 📄 PDF Reports
+- 🌐 Gujarati language support
 
-[![View Repository](https://img.shields.io/badge/View_Smart_Farmer_Assistant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art/SmartFarmer-Assistant)
-
-<br>
+---
 
 ## 🍽️ MongoMeals Restaurant Management System
 
@@ -119,20 +118,20 @@ A farming-support platform designed to solve practical agricultural problems usi
 
 A complete MERN-stack restaurant platform with customer functionality, authentication and an administrative dashboard.
 
-*Highlights*
+### ✨ Highlights
 
-- 🔐 User Authentication
-- 🍕 Menu Management
-- 📅 Restaurant Reservations
+- 🔐 User Authentication with JWT
+- 🍱 Menu Management
+- 🪑 Restaurant Reservations
 - 🎁 Rewards System
 - 🎉 Event Management
-- 📧 Email Notifications
+- ⭐ Customer Reviews
 - 👨‍💼 Admin Dashboard
-- 🔄 CRUD Operations
+- 📋 CRUD Operations
+- 📧 Email functionality
+- 🌙 Dark Mode
 
-[![View Repository](https://img.shields.io/badge/View_MongoMeals-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art/MongoMeals-Restaurant-Management-System)
-
-<br>
+---
 
 ## 🏥 Hospital Management System
 
@@ -140,9 +139,7 @@ A complete MERN-stack restaurant platform with customer functionality, authentic
 
 A hospital management application with patient registration, appointments, medicine suggestions, blood-bank management and administrative operations.
 
-[![View Repository](https://img.shields.io/badge/View_Hospital_Management_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art/Python1-Hospital-management-System)
-
-<br>
+---
 
 ## 🍴 Flavors & Fork Restaurant Website
 
@@ -150,23 +147,17 @@ A hospital management application with patient registration, appointments, medic
 
 A responsive restaurant website featuring menu pages, reservation functionality, gallery, contact pages and responsive Bootstrap design.
 
-[![View Repository](https://img.shields.io/badge/View_Flavors_&_Fork-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahmbhattchaitanya2-art/flavors-and-fork-restaurant-website)
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=brahmbhattchaitanya2-art&theme=transparent&hide_border=true&show_icons=true" alt="Chaitanya GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=brahmbhattchaitanya2-art&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=brahmbhattchaitanya2-art&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brahmbhattchaitanya2-art&theme=transparent&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brahmbhattchaitanya2-art&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
@@ -174,31 +165,15 @@ A responsive restaurant website featuring menu pages, reservation functionality,
 
 ---
 
-# ♟️ Play Chess With Me
+# 🐍 Watch My Contributions Come Alive
 
-### Think you can make the best move? 👀
+<div align="center">
 
-This is a *community chess game* running directly through my GitHub profile.
+![Snake animation](https://raw.githubusercontent.com/brahmbhattchaitanya2-art/brahmbhattchaitanya2-art/output/github-contribution-grid-snake-dark.svg)
 
-Anyone with a GitHub account can make the next legal move.
+</div>
 
-*How to play:*
-
-1. Click one of the available moves.
-2. GitHub will open a prepared Issue.
-3. Click *Submit new issue*.
-4. The board will automatically update.
-5. The next visitor can make the next move.
-
-<!-- CHESS_GAME_START -->
-
-### ♟️ Chess board is ready to be initialized.
-
-Click the button below once to start the first game.
-
-[![Start Chess Game](https://img.shields.io/badge/♟️_START_CHESS_GAME-2ea44f?style=for-the-badge)](https://github.com/brahmbhattchaitanya2-art/brahmbhattchaitanya2-art/issues/new?title=Chess%3A%20new)
-
-<!-- CHESS_GAME_END -->
+The snake travels through my GitHub contribution graph — turning my coding activity into a live animation. 🚀
 
 ---
 
@@ -208,7 +183,7 @@ Click the button below once to start the first game.
 
 ### 🏆 CAWACH Kendra — State-Level Competition
 
-*Uttam Category Winner | 2026*
+Uttam Category Winner | 2026
 
 </div>
 
@@ -222,18 +197,15 @@ I'm always interested in learning, building meaningful projects and connecting w
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brahmbhatt--chaitanya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahmbhatt-chaitanya)
-
-[![Email](https://img.shields.io/badge/Gmail-brahmbhattchaitanya2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmbhattchaitanya2@gmail.com)
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=brahmbhattchaitanya2-art&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmbhatt-chaitanya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmbhattchaitanya2@gmail.com)
 
 <br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=brahmbhattchaitanya2-art&style=for-the-badge)
 
 ### ✨ Thanks for visiting my profile!
 
-*Let's connect, learn and build something meaningful. 🚀*
+Let's connect, learn and build something meaningful. 🚀
 
 </div>
