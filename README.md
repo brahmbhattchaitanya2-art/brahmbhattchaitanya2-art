@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Chaitanya+Brahmbhatt+%F0%9F%91%8B;Python+%2F+Django+Developer;Full-Stack+Developer;MERN+Stack+Developer;Turning+Ideas+into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 ---
 
 # 💫 About Me
