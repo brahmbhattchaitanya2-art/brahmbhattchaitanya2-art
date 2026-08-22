@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github.gif" alt="Chaitanya Brahmbhatt Profile Animation">
+  <img src="./github.gif" alt="Chaitanya Brahmbhatt Profile Animation">
 </p>
 ---
 
