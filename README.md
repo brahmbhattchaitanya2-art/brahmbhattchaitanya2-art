@@ -29,6 +29,9 @@
 </a>
 
 </div>
+
+---
+
 # 💫 About Me
 
 🔭 I’m currently working on *full-stack projects using Django and the MERN Stack.*
