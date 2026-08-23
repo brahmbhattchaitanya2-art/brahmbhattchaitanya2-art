@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="./github.gif" alt="Chaitanya Brahmbhatt Profile Animation">
+  <img src="./github.gif"
+       alt="Hi, I'm Chaitanya 👋 | Python/Django & Full-Stack Developer | Turning Real-World Problems Into Practical Software Solutions ❤️">
 </p>
+
 ---
 
 <p align="center">
-  <img src="./chaitanya-coding-animation.gif" alt="Chaitanya Coding Animation" width="650">
+  <img src="./chaitanya-coding-animation.gif"
+       alt="Chaitanya Coding - Building Full-Stack Applications with Python, Django and MERN Stack"
+       width="650">
 </p>
 
 ---
