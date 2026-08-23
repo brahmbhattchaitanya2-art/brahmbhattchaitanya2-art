@@ -3,6 +3,11 @@
 </p>
 ---
 
+<p align="center">
+  <img src="./chaitanya-coding-animation.gif" alt="Chaitanya Coding Animation" width="600">
+</p>
+
+---
 # 💫 About Me
 
 🔭 I’m currently working on *full-stack projects using Django and the MERN Stack.*
