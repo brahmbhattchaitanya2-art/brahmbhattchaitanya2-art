@@ -21,11 +21,11 @@
 
 <br>
 <a href="mailto:brahmbhattchaitanya2@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="42" alt="Gmail"/>
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chaitanya-brahmbhatt">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
 </a>
 
 </div>
