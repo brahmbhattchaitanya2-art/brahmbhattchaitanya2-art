@@ -239,3 +239,9 @@ I don't wait for calm seas — I learn to sail through them.
 ### ⚡ Keep Building. Keep Rising. Keep Moving Forward. ⚡
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="./Bottom.svg" width="100%" alt="Animated Blue Water Waves">
+</p>
