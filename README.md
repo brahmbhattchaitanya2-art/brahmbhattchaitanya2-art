@@ -12,12 +12,6 @@
 </p>
 
 
-<div align="center">
-📍 India
-
-
-
-</div>
 ---
 # 💫 About Me
 
