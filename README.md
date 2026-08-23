@@ -225,3 +225,17 @@ I'm always interested in learning, building meaningful projects and connecting w
 Let's connect, learn and build something meaningful. 🚀
 
 </div>
+
+---
+
+<div align="center">
+
+### 🌊 Let the waves rise.
+
+*No wave is high enough to stop a soul determined to move forward.*  
+Every storm makes me stronger, every tide takes me further.  
+I don't wait for calm seas — I learn to sail through them.
+
+### ⚡ Keep Building. Keep Rising. Keep Moving Forward. ⚡
+
+</div>
