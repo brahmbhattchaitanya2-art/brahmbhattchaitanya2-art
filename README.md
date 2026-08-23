@@ -18,6 +18,7 @@
 <div align="center">
 
 📍 Ahmedabad, India
+
 <br>
 <a href="mailto:brahmbhattchaitanya2@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Gmail"/>
