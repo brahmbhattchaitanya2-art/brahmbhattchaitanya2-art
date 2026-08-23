@@ -13,6 +13,23 @@
 
 
 ---
+
+
+<div align="center">
+
+📍 Ahmedabad, India
+
+<br><br>
+
+<a href="mailto:brahmbhattchaitanya2@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="42" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chaitanya-brahmbhatt">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" alt="LinkedIn"/>
+</a>
+
+</div>
 # 💫 About Me
 
 🔭 I’m currently working on *full-stack projects using Django and the MERN Stack.*
