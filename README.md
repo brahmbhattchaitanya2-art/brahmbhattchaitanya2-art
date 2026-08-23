@@ -236,7 +236,9 @@ Let's connect, learn and build something meaningful. 🚀
 Every storm makes me stronger, every tide takes me further.  
 I don't wait for calm seas — I learn to sail through them.
 
-### ⚡ Keep Building. Keep Rising. Keep Moving Forward. ⚡
+<p align="center">
+  <img src="./animated-footer-text.svg" width="90%" alt="Keep Building Keep Rising Keep Moving Forward">
+</p>
 
 </div>
 
