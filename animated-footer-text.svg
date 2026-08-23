@@ -1,0 +1,64 @@
+<svg width="900" height="90" viewBox="0 0 900 90"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Animated Blue Gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C6FF">
+        <animate attributeName="stop-color"
+                 values="#00C6FF;#0072FF;#00E5FF;#00C6FF"
+                 dur="4s"
+                 repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="50%" stop-color="#0072FF">
+        <animate attributeName="stop-color"
+                 values="#0072FF;#00E5FF;#0057FF;#0072FF"
+                 dur="4s"
+                 repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#00E5FF">
+        <animate attributeName="stop-color"
+                 values="#00E5FF;#0057FF;#00C6FF;#00E5FF"
+                 dur="4s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <text
+      x="450"
+      y="52"
+      text-anchor="middle"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="27"
+      font-weight="700"
+      fill="url(#textGradient)"
+      filter="url(#glow)">
+
+      🔥 Keep Building. Keep Rising. Keep Moving Forward. 🔥
+
+      <!-- Gentle breathing animation -->
+      <animate
+          attributeName="opacity"
+          values="0.65;1;0.65"
+          dur="2.5s"
+          repeatCount="indefinite"/>
+
+  </text>
+
+</svg>
