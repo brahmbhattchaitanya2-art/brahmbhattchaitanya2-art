@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./chaitanya-coding-animation.gif" alt="Chaitanya Coding Animation" width="600">
+  <img src="./chaitanya-coding-animation.gif" alt="Chaitanya Coding Animation" width="650">
 </p>
 
 ---
