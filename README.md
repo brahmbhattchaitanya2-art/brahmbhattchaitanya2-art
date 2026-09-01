@@ -205,7 +205,7 @@ Uttam Category Winner | 2026
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
 <div align="center">
 
