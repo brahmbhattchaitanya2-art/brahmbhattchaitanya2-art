@@ -204,6 +204,13 @@ Uttam Category Winner | 2026
 </div>
 
 ---
+<div align="center">
+  <img src="galaxy_github_profile.gif" width="100%" alt="Chaitanya Galaxy Animation">
+</div>
+---
+
+
+
 
 # 🤝 Connect With Me
 
