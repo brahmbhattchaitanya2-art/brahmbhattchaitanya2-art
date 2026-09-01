@@ -204,37 +204,43 @@ Uttam Category Winner | 2026
 </div>
 
 ---
-<div align="center">
-  <img src="galaxy_github_profile.gif" width="100%" alt="Chaitanya Galaxy Animation">
-</div>
----
 
-
-
-
-# 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
-I'm always interested in learning, building meaningful projects and connecting with developers.
+  <img src="galaxy_github_profile.gif"
+       width="90%"
+       alt="Chaitanya Galaxy Animation">
 
-<br>
+  <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-brahmbhatt/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmbhattchaitanya2@gmail.com)
+  <b>Always open to meaningful connections, new ideas, and building something impactful together. ✨</b>
 
-<br><br>
+  <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=brahmbhattchaitanya2-art&style=for-the-badge)
+  <a href="https://www.linkedin.com/in/chaitanya-brahmbhatt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-### ✨ Thanks for visiting my profile!
+  <a href="mailto:brahmbhattchaitanya2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-Let's connect, learn and build something meaningful. 🚀
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=brahmbhattchaitanya2-art&style=for-the-badge"
+       alt="Profile Views">
+
+  <br><br>
+
+  <h3>✨ Thanks for visiting my profile!</h3>
+
+  <p>Let's connect, learn and build something meaningful. 🚀</p>
 
 </div>
 
 ---
-
 <div align="center">
 
 ### 🌊 Let the waves rise.
