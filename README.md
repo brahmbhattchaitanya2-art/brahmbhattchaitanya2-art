@@ -136,7 +136,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </td>
 <td width="35%" align="center" valign="middle">
 <a href="SMART_FARMER_REPO_LINK">
-<img src="smart-farmer.png" alt="Smart Farmer Assistant" width="295">
+<img src="smart-farmer.png" alt="Smart Farmer Assistant" width="285">
 </a>
 <br>
 <sub><b>👆 Click the card to explore the complete project</b></sub>
