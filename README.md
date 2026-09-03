@@ -135,7 +135,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </ul>
 </td>
 <td width="35%" align="center" valign="middle">
-<a href="SMART_FARMER_REPO_LINK">
+<a href="https://github.com/brahmbhattchaitanya2-art/SmartFarmer-Assistant">
 <img src="smart-farmer.png" alt="Smart Farmer Assistant" width="285">
 </a>
 <br>
@@ -167,7 +167,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </ul>
 </td>
 <td width="35%" align="center" valign="middle">
-<a href="MONGOMEALS_REPO_LINK">
+<a href="https://github.com/brahmbhattchaitanya2-art/MongoMeals-Restaurant-Management-System">
 <img src="mongomeals.png" alt="MongoMeals Restaurant Management System" width="320">
 </a>
 <br>
@@ -197,7 +197,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </ul>
 </td>
 <td width="35%" align="center" valign="middle">
-<a href="HOSPITAL_REPO_LINK">
+<a href="https://github.com/brahmbhattchaitanya2-art/Python1-Hospital-management-System">
 <img src="hospital-management.png" alt="Hospital Management System" width="320">
 </a>
 <br>
@@ -226,7 +226,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </ul>
 </td>
 <td width="35%" align="center" valign="middle">
-<a href="FLAVORS_FORK_REPO_LINK">
+<a href="https://github.com/brahmbhattchaitanya2-art/flavors-and-fork-restaurant-website">
 <img src="flavors-fork.png" alt="Flavors and Fork Restaurant Website" width="320">
 </a>
 <br>
