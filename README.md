@@ -104,65 +104,167 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌾 Smart Farmer Assistant
-
-*Python • Django • Machine Learning • Deep Learning • APIs • Web Scraping*
-
-A farming-support platform designed to solve practical agricultural problems using web development, machine learning and data-driven features.
-
-### ✨ Highlights
-
-- 🌱 Crop Management
-- 🔬 Disease Prediction using Machine Learning
-- 🍃 Deep Learning Leaf Scanner using MobileNetV2
-- 📷 Webcam and image-upload leaf scanning
-- 🌦️ Weather Forecast
-- 💰 Market Price Information
-- 🧪 Fertilizer Guidance
-- 📰 Farming News
-- 📊 Analytics Dashboard
-- 📄 PDF Reports
-- 🌐 Gujarati language support
 
 ---
+<h2 align="left">🚀 Featured Projects</h2>
 
-## 🍽️ MongoMeals Restaurant Management System
+<p align="left">
+  Showcasing some of my best work in web development, full-stack engineering, machine learning, and AI-powered applications.
+</p>
 
-*MongoDB • Express.js • React.js • Node.js*
+<p align="left">
+  <b>✨ Tip:</b> Click the project card on the right to explore the full repository.
+</p>
 
-A complete MERN-stack restaurant platform with customer functionality, authentication and an administrative dashboard.
+<hr>
 
-### ✨ Highlights
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-- 🔐 User Authentication with JWT
-- 🍱 Menu Management
-- 🪑 Restaurant Reservations
-- 🎁 Rewards System
-- 🎉 Event Management
-- ⭐ Customer Reviews
-- 👨‍💼 Admin Dashboard
-- 📋 CRUD Operations
-- 📧 Email functionality
-- 🌙 Dark Mode
+<h3>🌿 Smart Farmer Assistant</h3>
+<p><i>Python • Django • Machine Learning • Deep Learning • APIs • Web Scraping</i></p>
 
----
+<p>
+A farming-support platform designed to solve practical agricultural problems using web development, machine learning, and data-driven intelligent features.
+</p>
 
-## 🏥 Hospital Management System
+<h4>✨ Highlights</h4>
+<ul>
+  <li>🌱 Crop Management</li>
+  <li>🧠 Disease Prediction using Machine Learning</li>
+  <li>🍃 Deep Learning Leaf Scanner using MobileNetV2</li>
+  <li>📷 Webcam and image-upload leaf scanning</li>
+  <li>🌦️ Weather Forecast</li>
+  <li>📈 Market Price Information</li>
+  <li>🧪 Fertilizer Guidance</li>
+  <li>📰 Farming News</li>
+  <li>📊 Analytics Dashboard</li>
+  <li>📄 PDF Reports</li>
+  <li>🌐 Gujarati Language Support</li>
+</ul>
 
-*Python • Django*
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="SMART_FARMER_REPO_LINK">
+        <img src="assets/projects/smart-farmer.png" alt="Smart Farmer Assistant Project Card" width="100%">
+      </a>
+      <br><br>
+      <sub><b>🔗 Click the card to explore the project</b></sub>
+    </td>
+  </tr>
+</table>
 
-A hospital management application with patient registration, appointments, medicine suggestions, blood-bank management and administrative operations.
+<hr>
 
----
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-## 🍴 Flavors & Fork Restaurant Website
+<h3>🍽️ MongoMeals Restaurant Management System</h3>
+<p><i>MongoDB • Express.js • React.js • Node.js</i></p>
 
-*HTML • CSS • JavaScript • Bootstrap*
+<p>
+A complete MERN-stack restaurant platform with customer functionality, secure authentication, reservation handling, rewards, and an administrative dashboard.
+</p>
 
-A responsive restaurant website featuring menu pages, reservation functionality, gallery, contact pages and responsive Bootstrap design.
+<h4>✨ Highlights</h4>
+<ul>
+  <li>🔐 User Authentication with JWT</li>
+  <li>📋 Menu Management</li>
+  <li>📅 Restaurant Reservations</li>
+  <li>🎁 Rewards System</li>
+  <li>🎉 Event Management</li>
+  <li>⭐ Customer Reviews</li>
+  <li>🛠️ Admin Dashboard</li>
+  <li>🧾 CRUD Operations</li>
+  <li>📧 Email Functionality</li>
+  <li>🌙 Dark Mode</li>
+</ul>
 
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="MONGOMEALS_REPO_LINK">
+        <img src="assets/projects/mongomeals.png" alt="MongoMeals Project Card" width="100%">
+      </a>
+      <br><br>
+      <sub><b>🔗 Click the card to explore the project</b></sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+<h3>🏥 Hospital Management System</h3>
+<p><i>Python • Streamlit • Gemini AI</i></p>
+
+<p>
+A smart hospital management application built to streamline patient registration, appointments, blood-bank operations, doctor support, and AI-assisted healthcare management.
+</p>
+
+<h4>✨ Highlights</h4>
+<ul>
+  <li>🧾 Patient Registration & Records</li>
+  <li>📅 Appointment Management</li>
+  <li>💊 Medicine / Health Assistance</li>
+  <li>🩸 Blood Bank Management</li>
+  <li>👨‍⚕️ Doctor Support Features</li>
+  <li>🛠️ Admin Dashboard</li>
+  <li>📊 Reports & Analytics</li>
+  <li>🤖 Gemini AI Integration</li>
+</ul>
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="HOSPITAL_REPO_LINK">
+        <img src="assets/projects/hospital-management.png" alt="Hospital Management System Project Card" width="100%">
+      </a>
+      <br><br>
+      <sub><b>🔗 Click the card to explore the project</b></sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+<h3>🍴 Flavors & Fork Restaurant Website</h3>
+<p><i>HTML • CSS • JavaScript • Bootstrap</i></p>
+
+<p>
+A responsive restaurant website featuring menu pages, reservation functionality, gallery sections, contact pages, and a clean Bootstrap-based user experience.
+</p>
+
+<h4>✨ Highlights</h4>
+<ul>
+  <li>📱 Fully Responsive Design</li>
+  <li>🍽️ Attractive Menu Pages</li>
+  <li>📅 Reservation Functionality</li>
+  <li>🖼️ Gallery Section</li>
+  <li>📩 Contact Page</li>
+  <li>🎨 Clean Bootstrap UI</li>
+  <li>⚡ Smooth User Experience</li>
+</ul>
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="FLAVORS_FORK_REPO_LINK">
+        <img src="assets/projects/flavors-fork.png" alt="Flavors and Fork Project Card" width="100%">
+      </a>
+      <br><br>
+      <sub><b>🔗 Click the card to explore the project</b></sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
 ---
 
 # 📊 GitHub Analytics
