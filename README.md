@@ -136,7 +136,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </td>
 <td width="35%" align="center" valign="middle">
 <a href="SMART_FARMER_REPO_LINK">
-<img src="assets/projects/smart-farmer.png" alt="Smart Farmer Assistant" width="320">
+<img src="smart-farmer.png" alt="Smart Farmer Assistant" width="320">
 </a>
 <br>
 <sub><b>👆 Click the card to explore the complete project</b></sub>
@@ -168,7 +168,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </td>
 <td width="35%" align="center" valign="middle">
 <a href="MONGOMEALS_REPO_LINK">
-<img src="assets/projects/mongomeals.png" alt="MongoMeals Restaurant Management System" width="320">
+<img src="mongomeals.png" alt="MongoMeals Restaurant Management System" width="320">
 </a>
 <br>
 <sub><b>👆 Click the card to explore the complete project</b></sub>
@@ -198,7 +198,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </td>
 <td width="35%" align="center" valign="middle">
 <a href="HOSPITAL_REPO_LINK">
-<img src="assets/projects/hospital-management.png" alt="Hospital Management System" width="320">
+<img src="hospital-management.png" alt="Hospital Management System" width="320">
 </a>
 <br>
 <sub><b>👆 Click the card to explore the complete project</b></sub>
@@ -227,7 +227,7 @@ Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, 
 </td>
 <td width="35%" align="center" valign="middle">
 <a href="FLAVORS_FORK_REPO_LINK">
-<img src="assets/projects/flavors-fork.png" alt="Flavors and Fork Restaurant Website" width="320">
+<img src="flavors-fork.png" alt="Flavors and Fork Restaurant Website" width="320">
 </a>
 <br>
 <sub><b>👆 Click the card to explore the complete project</b></sub>
