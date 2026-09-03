@@ -102,11 +102,7 @@
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
-
----
-<h2 align="left">🚀 Featured Projects</h2>
+[1:00 PM, 9/3/2026] Chaitanya: <h2 align="left">🚀 Featured Projects</h2>
 
 <p align="left">
   Showcasing some of my best work in web development, full-stack engineering, machine learning, and AI-powered applications.
@@ -265,7 +261,141 @@ A responsive restaurant website featuring menu pages, reservation functionality,
 </table>
 
 <hr>
----
+[1:04 PM, 9/3/2026] Chaitanya: <h2>🚀 Featured Projects</h2>
+
+<p>
+Showcasing some of my best work in <b>Full-Stack Development, Machine Learning, AI and Modern Web Development.</b>
+</p>
+
+<p>✨ <b>Explore the projects below — click any project card to open its complete repository.</b></p>
+
+<hr>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<h3>🌿 Smart Farmer Assistant</h3>
+<p><i>Python • Django • Machine Learning • Deep Learning • APIs • Web Scraping</i></p>
+<p>A smart farming-support platform designed to solve practical agricultural problems using web development, machine learning and intelligent data-driven features.</p>
+<h4>✨ Highlights</h4>
+<ul>
+<li>🌱 Crop Management</li>
+<li>🧠 Disease Prediction using Machine Learning</li>
+<li>🍃 Deep Learning Leaf Scanner using MobileNetV2</li>
+<li>📷 Webcam and Image Upload Leaf Scanning</li>
+<li>🌦️ Weather Forecast</li>
+<li>📈 Market Price Information</li>
+<li>🧪 Fertilizer Guidance</li>
+<li>📰 Farming News</li>
+<li>📊 Analytics Dashboard</li>
+<li>📄 PDF Reports</li>
+<li>🌐 Gujarati Language Support</li>
+</ul>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="SMART_FARMER_REPO_LINK">
+<img src="assets/projects/smart-farmer.png" alt="Smart Farmer Assistant" width="320">
+</a>
+<br>
+<sub><b>👆 Click the card to explore the complete project</b></sub>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<h3>🍽️ MongoMeals Restaurant Management System</h3>
+<p><i>MongoDB • Express.js • React.js • Node.js</i></p>
+<p>A complete MERN-stack restaurant management platform combining customer services, secure authentication, reservations, rewards and powerful administrative functionality.</p>
+<h4>✨ Highlights</h4>
+<ul>
+<li>🔐 JWT User Authentication</li>
+<li>🍽️ Menu Management</li>
+<li>📅 Restaurant Reservations</li>
+<li>🎁 Rewards & Loyalty System</li>
+<li>🎉 Event Management</li>
+<li>⭐ Customer Reviews</li>
+<li>👨‍💼 Admin Dashboard</li>
+<li>🧾 CRUD Operations</li>
+<li>📧 Email Functionality</li>
+<li>🌙 Dark Mode</li>
+</ul>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="MONGOMEALS_REPO_LINK">
+<img src="assets/projects/mongomeals.png" alt="MongoMeals Restaurant Management System" width="320">
+</a>
+<br>
+<sub><b>👆 Click the card to explore the complete project</b></sub>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<h3>🏥 Hospital Management System</h3>
+<p><i>Python • Streamlit • Gemini AI</i></p>
+<p>An intelligent hospital management platform designed to simplify patient, doctor, appointment, blood-bank and administrative operations with AI-powered assistance.</p>
+<h4>✨ Highlights</h4>
+<ul>
+<li>🧑‍⚕️ Patient Registration & Management</li>
+<li>📅 Appointment Management</li>
+<li>👨‍⚕️ Doctor Management & Support</li>
+<li>💊 Medicine Assistance</li>
+<li>🩸 Blood Bank Management</li>
+<li>📢 Administrative Operations</li>
+<li>📊 Analytics & Reports</li>
+<li>🤖 Gemini AI Assistance</li>
+</ul>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="HOSPITAL_REPO_LINK">
+<img src="assets/projects/hospital-management.png" alt="Hospital Management System" width="320">
+</a>
+<br>
+<sub><b>👆 Click the card to explore the complete project</b></sub>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+<h3>🍴 Flavors & Fork Restaurant Website</h3>
+<p><i>HTML • CSS • JavaScript • Bootstrap</i></p>
+<p>A modern responsive restaurant website designed to deliver an attractive and smooth dining web experience across desktop, tablet and mobile devices.</p>
+<h4>✨ Highlights</h4>
+<ul>
+<li>📱 Fully Responsive Design</li>
+<li>🍽️ Interactive Menu Pages</li>
+<li>📅 Reservation Functionality</li>
+<li>🖼️ Restaurant Gallery</li>
+<li>📩 Contact Pages</li>
+<li>🎨 Modern Bootstrap UI</li>
+<li>⚡ Smooth User Experience</li>
+</ul>
+</td>
+<td width="35%" align="center" valign="middle">
+<a href="FLAVORS_FORK_REPO_LINK">
+<img src="assets/projects/flavors-fork.png" alt="Flavors and Fork Restaurant Website" width="320">
+</a>
+<br>
+<sub><b>👆 Click the card to explore the complete project</b></sub>
+</td>
+</tr>
+</table>
+
+<hr>
+
+ 
 
 # 📊 GitHub Analytics
 
