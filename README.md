@@ -25,7 +25,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/brahmbhatt-chaitanya">
+<a href="https://www.linkedin.com/in/chaitanya-brahmbhatt">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 &nbsp;&nbsp;
