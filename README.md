@@ -27,6 +27,14 @@
 <a href="https://www.linkedin.com/in/chaitanya-brahmbhatt">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
 </a>
+<a
+href="https://github.com/brahmbhattchaitanya2-art">
+  <img src="https://img.shields.io/badge/⭐%20FOLLOW%20ME-ON%20GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div
+
+
 
 </div>
 
