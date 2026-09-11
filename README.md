@@ -21,15 +21,17 @@
 
 <br>
 <a href="mailto:brahmbhattchaitanya2@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chaitanya-brahmbhatt">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/brahmbhatt-chaitanya">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
-<a
-href="https://github.com/brahmbhattchaitanya2-art">
-  <img src="https://img.shields.io/badge/⭐%20FOLLOW%20ME-ON%20GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/brahmbhattchaitanya2-art">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
 </div
